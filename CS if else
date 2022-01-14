@@ -1,0 +1,2 @@
+let CS = true;
+if (CS) {console.log('I Need to start my CS homework')} else {console.log'I finshed all of my CS homework!')}
